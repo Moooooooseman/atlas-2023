@@ -1,0 +1,56 @@
+{
+	"id": -1,
+	"name": "Majora’s Mask",
+	"description": "Majora’s Mask is an item, object, and final boss of TLOZ MM (The Legend Of Zelda: Majora’s Mask)",
+	"links": {
+		"website": [
+			"https://zelda.fandom.com/wiki/Majora%27s_Mask_(Item)"
+		],
+		"subreddit": [
+			"zelda",
+			"ZeldaMemes"
+		]
+	},
+	"path": {
+		"253": [
+			[
+				-815,
+				505
+			],
+			[
+				-816,
+				503
+			],
+			[
+				-819,
+				506
+			],
+			[
+				-821,
+				508
+			],
+			[
+				-819,
+				510
+			],
+			[
+				-817,
+				511
+			],
+			[
+				-816,
+				513
+			],
+			[
+				-815,
+				514
+			]
+		]
+	},
+	"center": {
+		"253": [
+			-817,
+			508
+		]
+	}
+}
