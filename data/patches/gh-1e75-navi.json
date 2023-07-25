@@ -1,0 +1,52 @@
+{
+	"id": -1,
+	"name": "Navi",
+	"description": "Navi is a fairy that is a companion to Link in The Legend Of Zelda: Ocarina Of Time",
+	"links": {
+		"website": [
+			"https://zelda.fandom.com/wiki/Navi"
+		],
+		"subreddit": [
+			"zelda",
+			"yahaha_irl"
+		]
+	},
+	"path": {
+		"253": [
+			[
+				-1284,
+				457
+			],
+			[
+				-1288,
+				461
+			],
+			[
+				-1290,
+				468
+			],
+			[
+				-1299,
+				467
+			],
+			[
+				-1301,
+				453
+			],
+			[
+				-1293,
+				457
+			],
+			[
+				-1287,
+				454
+			]
+		]
+	},
+	"center": {
+		"253": [
+			-1294,
+			462
+		]
+	}
+}
