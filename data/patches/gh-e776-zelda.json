@@ -1,0 +1,91 @@
+{
+	"id": -1,
+	"name": "Zelda",
+	"description": "Zelda is the princess from The Legend of Zelda this specify version is from The Legend Of Zelda Tears Of The Kingdom, you can see her wearing the outfit that the zonai gift her when she travels back in time after falling down due to the upheaval",
+	"links": {
+		"website": [
+			"https://zelda.fandom.com"
+		],
+		"subreddit": [
+			"zelda"
+		]
+	},
+	"path": {
+		"177-259": [
+			[
+				-828,
+				513
+			],
+			[
+				-823,
+				514
+			],
+			[
+				-819,
+				517
+			],
+			[
+				-820,
+				520
+			],
+			[
+				-820,
+				523
+			],
+			[
+				-819,
+				528
+			],
+			[
+				-820,
+				530
+			],
+			[
+				-823,
+				534
+			],
+			[
+				-824,
+				535
+			],
+			[
+				-826,
+				534
+			],
+			[
+				-827,
+				535
+			],
+			[
+				-829,
+				532
+			],
+			[
+				-831,
+				529
+			],
+			[
+				-831,
+				523
+			],
+			[
+				-831,
+				519
+			],
+			[
+				-831,
+				516
+			],
+			[
+				-828,
+				513
+			]
+		]
+	},
+	"center": {
+		"177-259": [
+			-825,
+			526
+		]
+	}
+}
